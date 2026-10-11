@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yogithakakkala/LeetCode_59/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/yogithakakkala/LeetCode_59/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
