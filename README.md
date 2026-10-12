@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogithakakkala/LeetCode_59/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yogithakakkala/LeetCode_59/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/yogithakakkala/LeetCode_59/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yogithakakkala/LeetCode_59/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogithakakkala/LeetCode_59/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogithakakkala/LeetCode_59/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yogithakakkala/LeetCode_59/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
