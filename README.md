@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/yogithakakkala/LeetCode_59/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/yogithakakkala/LeetCode_59/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/yogithakakkala/LeetCode_59/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yogithakakkala/LeetCode_59/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogithakakkala/LeetCode_59/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yogithakakkala/LeetCode_59/tree/master/0169-majority-element) |
+| [0771-jewels-and-stones](https://github.com/yogithakakkala/LeetCode_59/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
